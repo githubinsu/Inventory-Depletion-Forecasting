@@ -1,6 +1,8 @@
 # Inventory Depletion Prediction and Alert System using Exponential Weighted Moving Average (EWMA)
-The provided code is for simulating inventory management using Exponential Weighted Moving Average (EWMA). Initially, it creates a mock inventory dataset for security reasons.
 
+The provided code is for simulating inventory management using Exponential Weighted Moving Average (EWMA). 
+
+Initially, it creates a mock inventory dataset for security reasons.
 Setup dates: The code sets the dates from '2024-01-01' to '2024-01-31'.
 Generate product list: It generates a list of 50 products named 'product_1' to 'product_50'.
 Generate inventory data: For each product, it creates a randomized inventory data. The starting inventory is a random number between 100 and 300. The daily depletion is also randomized based on the inventory.

@@ -1,4 +1,4 @@
-# Inventory Depletion Prediction and Alert System using Exponential Weighted Moving Average (EWMA)
+# Inventory Depletion Forecasting and Alert System using Exponential Weighted Moving Average (EWMA)
 
 The provided code is for simulating inventory management using Exponential Weighted Moving Average (EWMA). 
 
